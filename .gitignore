@@ -1,3 +1,6 @@
+# PyCharm
+.idea
+
 # Django
 db.sqlite3
 staticfiles/
